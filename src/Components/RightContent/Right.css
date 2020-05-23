@@ -1,0 +1,15 @@
+.feed-right-rail.feed-right-rail--multi-card {
+    background-color: transparent;
+    border: none;
+    border-radius: unset;
+}
+.neptune-grid .right-rail {
+    width: 312.00192px;
+}
+.neptune-grid .right-rail{
+    box-sizing: border-box;
+    float: left;
+    margin-bottom: 24px;
+    margin-right: -1px;
+    margin-left: 25px;
+}

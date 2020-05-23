@@ -1,0 +1,14 @@
+.feed-right-rail--multi-card .feed-right-rail__ad.feed-right-rail__ad {
+    border-radius: 2px;
+}
+.right-rail .ad-banner-container {
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15), 0 2px 3px rgba(0,0,0,.2);
+    transition: box-shadow 83ms;
+    background-color: #fff;
+    padding: 6px;
+    margin: 0;
+}
+.ad-banner {
+    display: block;
+    margin: 0 auto;
+}

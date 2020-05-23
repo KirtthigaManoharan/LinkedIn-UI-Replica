@@ -1,0 +1,97 @@
+
+div, form {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+.nav-search-bar{
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+}
+.nav-search .nav-search-typeahead {
+    position: relative;
+    min-width: 100px;
+    max-width: 280px;
+}
+.nav-search .search-typeahead-v2 input {
+    height: 34px;
+    background-color: #e1e9ee;
+}
+.search-global-typeahead__input.search-global-typeahead__input {
+    width: 100%;
+    border: none;
+    border-radius: 2px;
+    padding: 0 8px 0 28px;
+    line-height: 1.75;
+    color: rgba(40,62,74,.75);
+    font-weight: 400;
+    font-size: 14px;
+    height: 34px;
+    background-color: #e1e9ee;
+}
+.search-global-typeahead__input{
+color:rgba(40,62,74,.75);
+}
+.nav-search input {
+    width: 100%;
+    border: none;
+    border-radius: 2px;
+    padding: 0 8px 0 28px;
+    line-height: 1.75;
+    color: rgba(40,62,74,.75);
+    font-weight: 400;
+    font-size: 14px;
+}
+.search-global-typeahead__controls {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.search-tab{
+    padding-left: 16px;
+    margin-top: 4px;
+}
+.nav-search .search-typeahead-v2__button {
+    width: 28px;
+    height: 34px;
+    line-height: 34px;
+    font-size: 1.5rem;
+    margin: 0;
+    box-shadow: none;
+    pointer-events: none;
+}
+.search-global-typeahead__button {
+    top: 0;
+    left: 0;
+    padding: 5px 4px;
+    border-radius: 0 2px 2px 0;
+}
+button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    font-family: inherit;
+}
+li-icon[type$=-icon] {
+    width: 24px;
+    height: 24px;
+}
+.search-global-typeahead__icon {
+    transform: scale(.67);
+    color: #283e4a;
+}
+li-icon {
+    display: inline-block;
+    width: 300px;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+}
+.search-global-typeahead__icon {
+    transform: scale(.67);
+    color: #283e4a;
+}
